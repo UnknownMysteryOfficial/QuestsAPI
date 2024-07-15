@@ -1,0 +1,8 @@
+name: QuestsAPI
+version: '1.0'
+main: org.mrerrorx.questsapi.QuestsAPI
+api-version: '1.20'
+authors: [MrErrorX]
+commands:
+  quests:
+    description: Opens the quests GUI.

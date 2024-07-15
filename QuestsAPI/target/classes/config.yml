@@ -1,0 +1,6 @@
+mongodb:
+  uri: "mongodb://localhost:27017"
+  database: "minecraft"
+  collection: "quests"
+cache:
+  updateInterval: 30  # in seconds
